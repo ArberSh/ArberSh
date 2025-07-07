@@ -1,5 +1,10 @@
 # 💫 About Me:
-Welcome to my Account! My name is Arber Shaska and I am 19 years old. Front End Developer
+Welcome to my GitHub profile!
+My name is Arber Shaska, I’m a 19-year-old Front End Developer with a passion for building responsive, clean, and user-friendly web applications. I enjoy working with technologies like HTML, CSS, JavaScript, and React, and I’m always excited to learn more and improve my skills.
+
+Here, you'll find some of the projects I’ve been working on, from personal experiments to collaborative team work. I’m open to feedback, learning opportunities, and connecting with other developers.
+
+Thanks for stopping by – feel free to check out my repositories and reach out if you’d like to collaborate!
 
 
 ## 🌐 Socials:
